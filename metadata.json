@@ -1,0 +1,6 @@
+{
+  "name": "Merchandising Fadel — Painel Operacional",
+  "description": "Painel operacional e de gestão de merchandising e rotas Fadel PWA com acompanhamento de AMs, relatórios e operação de baú.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
